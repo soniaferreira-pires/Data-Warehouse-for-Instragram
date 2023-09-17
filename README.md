@@ -21,3 +21,4 @@ This project includes the creation of dimensional model with dimensions and fact
 
 ### Run Tableau Instructions
 1. Connect to the local database created in PostgreSQL
+
