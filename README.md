@@ -1,8 +1,7 @@
 # Instagram - Data Warehouse Implementation
-
-V. Bartolomeu, N. Ivakko, F. Salimi, S. Ferreira
 #### FEUP, Faculty of Engineering, University of Porto Master in Data Science and Enginnering
-#### Data warehouse, April 2023
+##### V. Bartolomeu, N. Ivakko, F. Salimi, S. Ferreira
+##### Data warehouse, April 2023
 ---
 
 <br>
